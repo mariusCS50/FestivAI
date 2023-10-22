@@ -7,3 +7,4 @@ jinja2
 typing-extentions
 tiktoken
 python-dotenv
+pypdf
