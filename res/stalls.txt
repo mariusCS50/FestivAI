@@ -1,0 +1,536 @@
+At 'L'Epis Taff' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Tartares. The place number of this stall is 198.01 and it's booking weezpay account number is 2316-002
+
+At 'Stand de Marc Schneider' you can have the following drink categories: minérales, and the following food types: Gaufre. The place number of this stall is 648.18 and it's booking weezpay account number is 2288-003
+
+At 'Stand de Nguyen Thanh-Lam' you can have the following drink categories: minérales, bières, and the following food types: Spécialités Asiatiques. The place number of this stall is 792.01 and it's booking weezpay account number is 2146-002
+
+At 'Wok Viet Thaï' you can have the following drink categories: nan, and the following food types: Spécialités Asiatiques. The place number of this stall is 45.22 and it's booking weezpay account number is 2072-002
+
+At 'Attitude Concept Store Sàrl' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: nan. The place number of this stall is 657.09 and it's booking weezpay account number is 2111-002
+
+At 'Stand de Laurent Boschung' you can have the following drink categories: nan, and the following food types: Confiserie, Crêpes, Sandwich. The place number of this stall is 387.15 and it's booking weezpay account number is 2065-002
+
+At 'Stand Argentine' you can have the following drink categories: minérales, bières, and the following food types: Spécialités Amérique latine. The place number of this stall is 744.06 and it's booking weezpay account number is 2335-003
+
+At 'Stand de Souady Abdelali' you can have the following drink categories: minérales, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 648.25 and it's booking weezpay account number is 2102-002
+
+At 'Neuchâtel Sport Rugby Club' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 384.18 and it's booking weezpay account number is 2181-002
+
+At 'Gaberel' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: Steak vigneron, Tartares. The place number of this stall is 198.09 and it's booking weezpay account number is 2029-002
+
+At 'Stand de FLORIDITA' you can have the following drink categories: minérales, vins, bières, and the following food types: nan. The place number of this stall is 303.01 and it's booking weezpay account number is 2385-002
+
+At 'Association des Vieux Scouts' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Croques-monsieur, planchettes neuchâteloises. The place number of this stall is 780.06 and it's booking weezpay account number is 2142-002
+
+At 'Stand de Bacouet Elian' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: Burgers, Fondue au fromage, Grillades, Raclette, Steak vigneron. The place number of this stall is 378.01 and it's booking weezpay account number is 2163-002
+
+At 'Stand de Bianchi Giuseppe' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 387.16 and it's booking weezpay account number is 2166-002
+
+At 'Stand Bianchi Giuseppe' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Burgers, Grillades, Sandwich, Steak vigneron. The place number of this stall is 387.18 and it's booking weezpay account number is 2166-003
+
+At 'Stand de Tran Ha' you can have the following drink categories: nan, and the following food types: Spécialités Asiatiques. The place number of this stall is 744.04 and it's booking weezpay account number is 2125-003
+
+At 'POULET SECRET' you can have the following drink categories: nan, and the following food types: Burgers, POULET FRITE. The place number of this stall is 726.23 and it's booking weezpay account number is 2275-002
+
+At 'Stand de Jérémy Billieux' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Planchettes (saucisse sèche NE, tome NE, oignons, cornichons, pain NE). The place number of this stall is 537.32 and it's booking weezpay account number is 2350-002
+
+At 'Terrasse du Cardinal' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 516.02 and it's booking weezpay account number is 2218-002
+
+At 'Milan swiss' you can have the following drink categories: nan, and the following food types: bonbons,barbe à papa. The place number of this stall is 648.2 and it's booking weezpay account number is 2243-002
+
+At 'MILAN SWISS CHURROS' you can have the following drink categories: nan, and the following food types: Churros. The place number of this stall is 657.11 and it's booking weezpay account number is 2243-003
+
+At 'Vert'libéraux neuchâtelois' you can have the following drink categories: minérales, vins, bières, liquoreux, ABSINTHE, and the following food types: nan. The place number of this stall is 744.22 and it's booking weezpay account number is 2298-002
+
+At 'Stand de Bersac Gregory' you can have the following drink categories: vins, bières, and the following food types: nan. The place number of this stall is 444.01 and it's booking weezpay account number is 2067-002
+
+At 'Stand de droguistes.fdv2023' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 537.15 and it's booking weezpay account number is 2459-002
+
+At 'Stand de Neuch Cycling friends' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Planchette. The place number of this stall is 384.04 and it's booking weezpay account number is 2286-002
+
+At 'Stand de Liqueur Beirão' you can have the following drink categories: liquoreux, cocktails, and the following food types: nan. The place number of this stall is 45.2 and it's booking weezpay account number is 2263-002
+
+At 'Stand de Gregory Jacquot' you can have the following drink categories: nan, and the following food types: Churros, hot dog. The place number of this stall is 537.14 and it's booking weezpay account number is 2303-002
+
+At 'Jean-Marc Gueguen' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 384.05 and it's booking weezpay account number is 2177-002
+
+At 'Stand DELICIOUS AVENUE' you can have the following drink categories: nan, and the following food types: Churros, Crêpes, gaufres. The place number of this stall is 648.23 and it's booking weezpay account number is 2098-002
+
+At 'Stand de Kha Hai' you can have the following drink categories: minérales, and the following food types: Spécialités Asiatiques. The place number of this stall is 276.08 and it's booking weezpay account number is 2044-002
+
+At 'La Jeunesse Rurale Neuchâteloise' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 732.1 and it's booking weezpay account number is 2119-002
+
+At 'Délice Kebab' you can have the following drink categories: nan, and the following food types: Kebab, frites, hot dog, falafel. The place number of this stall is 648.08 and it's booking weezpay account number is 2090-002
+
+At 'Table Ronde N°6' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: Pizza. The place number of this stall is 387.08 and it's booking weezpay account number is 2066-002
+
+At 'Rossignol des Gorges Boudry (société d'accordéonistes)' you can have the following drink categories: minérales, vins, bières, and the following food types: Soupe aux pois. The place number of this stall is 537.01 and it's booking weezpay account number is 2069-002
+
+At 'Stand de Brasserie des Mines' you can have the following drink categories: minérales, bières, cocktails, and the following food types: nan. The place number of this stall is 45.04 and it's booking weezpay account number is 2015-002
+
+At 'Curling Neuchâtel-Sports' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: bretzel nature. The place number of this stall is 384.24 and it's booking weezpay account number is 2346-002
+
+At 'Stand de Trac Tran Ngoc Phuong' you can have the following drink categories: nan, and the following food types: Spécialités Asiatiques. The place number of this stall is 648.17 and it's booking weezpay account number is 2094-002
+
+At 'Stand de Maye Sébastien' you can have the following drink categories: minérales, vins, bières, and the following food types: Grillades, Sandwich, Planchette, assiettes froides, terrines, assiettes chaudes (magret de canard, foie gras, filet de boeuf, caille, desserts). The place number of this stall is 384.1 and it's booking weezpay account number is 2165-002
+
+At 'Stand du Club Alpin' you can have the following drink categories: minérales, vins, bières, and the following food types: Soupe aux pois, Planchettes apéro. The place number of this stall is 198.04 and it's booking weezpay account number is 2255-002
+
+At 'Stand de Van Hecke Kris' you can have the following drink categories: nan, and the following food types: Gaufres. The place number of this stall is 792.02 and it's booking weezpay account number is 2147-002
+
+At 'El Porronpompero' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 384.07 and it's booking weezpay account number is 2053-002
+
+At 'JC's Gourmet Hot Dogs' you can have the following drink categories: nan, and the following food types: Gourmet Hot Dogs. The place number of this stall is 657.14 and it's booking weezpay account number is 2287-002
+
+At 'Stand de Singh Prince Pal' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Spécialités Asiatiques. The place number of this stall is 744.34 and it's booking weezpay account number is 2239-002
+
+At 'RiderFamily' you can have the following drink categories: minérales, vins, bières, and the following food types: Pizza. The place number of this stall is 201.03 and it's booking weezpay account number is 2037-002
+
+At 'singh sukhwinder' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 45.26 and it's booking weezpay account number is 2239-003
+
+At 'Service compris' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: Planchette du terroir : saucisse sèche et gruyère. The place number of this stall is 384.13 and it's booking weezpay account number is 2187-002
+
+At 'Canard Gourmand' you can have the following drink categories: minérales, vins, bières, and the following food types: Sandwich, Sandwich de Foie gras poêlé, sauce aux truffes. The place number of this stall is 198.05 and it's booking weezpay account number is 2157-002
+
+At 'BARBECUEBAR' you can have the following drink categories: minérales, vins, bières, and the following food types: Grillades, POMME-FRITES. The place number of this stall is 744.12 and it's booking weezpay account number is 2480-002
+
+At 'Stand du Volley' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Plateau apéritif, hot-dog, autres petits encas. The place number of this stall is 384.22 and it's booking weezpay account number is 2182-002
+
+At 'Stand de La Turquoise' you can have the following drink categories: minérales, vins, bières, and the following food types: Kebab, Kebab et Frites. The place number of this stall is 795.09 and it's booking weezpay account number is 2271-002
+
+At 'Stand Istanbul Kebab' you can have the following drink categories: minérales, and the following food types: Kebab, Spécialités Orientales. The place number of this stall is 387.09 and it's booking weezpay account number is 2060-002
+
+At 'Stand de Yonten Tratsang' you can have the following drink categories: minérales, vins, bières, and the following food types: Spécialités Asiatiques,Momo tibétain. The place number of this stall is 198.12 and it's booking weezpay account number is 2250-002
+
+At 'Stand de Neuchâtel Xamax 1912' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Ramequin au fromage. The place number of this stall is 45.01 and it's booking weezpay account number is 2269-002
+
+At 'Stand de Brönnimann Beat' you can have the following drink categories: minérales, vins, bières, and the following food types: Brochettes, Pommes, Cheese-Weel, Burrito, Saucisse , Schüblig. The place number of this stall is 384.06 and it's booking weezpay account number is 2052-002
+
+At 'Boucherie Margot' you can have the following drink categories: nan, and the following food types: Burgers, Grillades, Frites. The place number of this stall is 384.09 and it's booking weezpay account number is 2055-002
+
+At 'Club des lutteurs du Vignoble' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: nan. The place number of this stall is 384.11 and it's booking weezpay account number is 2453-002
+
+At 'Stand de Ngawang Chopatsang' you can have the following drink categories: minérales, vins, bières, and the following food types: corn dog, Momo, chicken karaage , Tin tin fish. The place number of this stall is 537.22 and it's booking weezpay account number is 2399-002
+
+At 'Stand de Eleonora Van Gool' you can have the following drink categories: minérales, vins, bières, and the following food types: Burgers, Crêpes, Pâtes, Pizza, Steak vigneron, Hot-dog, frites. The place number of this stall is 648.24 and it's booking weezpay account number is 2320-002
+
+At 'Stand de Wenger Tupan Anita' you can have the following drink categories: minérales, and the following food types: Churros, Confiserie, Crêpes. The place number of this stall is 648.11 and it's booking weezpay account number is 2170-002
+
+At 'Stand de Au metro' you can have the following drink categories: minérales, vins, and the following food types: nan. The place number of this stall is 648.07 and it's booking weezpay account number is 2373-002
+
+At 'Denibenevent Abako' you can have the following drink categories: minérales, vins, bières, and the following food types: Poissons, Spécialités Africaines. The place number of this stall is 201.04 and it's booking weezpay account number is 2038-002
+
+At 'Stand de Christian Di Marco' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 378.03 and it's booking weezpay account number is 2195-002
+
+At 'Stand de Bui Van Duong' you can have the following drink categories: minérales, vins, bières, and the following food types: Spécialités Asiatiques. The place number of this stall is 657.18 and it's booking weezpay account number is 2112-002
+
+At 'The Jungle Kitchen' you can have the following drink categories: nan, and the following food types: Grillades, Spécialités Africaines. The place number of this stall is 744.07 and it's booking weezpay account number is 2126-002
+
+At 'Stand de Fontaine Sébastien' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: Burgers, Sandwich. The place number of this stall is 276.04 and it's booking weezpay account number is 2043-002
+
+At 'Association musicale Neuchâtel St-Blaise' you can have the following drink categories: minérales, vins, bières, and the following food types: Confiserie, Steak vigneron. The place number of this stall is 384.16 and it's booking weezpay account number is 2057-002
+
+At 'Terrasse du Bar de l'Univers' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 201.1 and it's booking weezpay account number is 2194-002
+
+At 'Sales Gosses' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: planchettes apéro. The place number of this stall is 45.1 and it's booking weezpay account number is 2276-002
+
+At 'CABANE DU FAYLYS' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Burgers, Grillades, Steak vigneron, Frites. The place number of this stall is 780.17 and it's booking weezpay account number is 2145-002
+
+At 'Stand de Cindy Righetti' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 726.08 and it's booking weezpay account number is 2236-002
+
+At 'Stand de Zupan Sandi (Bassin)' you can have the following drink categories: minérales, and the following food types: Burgers, Crêpes, Spécialités Amérique latine, Tex-Mex. The place number of this stall is 45.18 and it's booking weezpay account number is 2174-002
+
+At 'Stand de La Cantine du Neubourg' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 297.03 and it's booking weezpay account number is 2215-002
+
+At 'Stand de Restaurant Maharajah/Younas Butt' you can have the following drink categories: minérales, vins, bières, and the following food types: Kebab, Spécialités indo-pakistanaises. The place number of this stall is 744.02 and it's booking weezpay account number is 2161-003
+
+At 'Stand de Selver Ogiz' you can have the following drink categories: nan, and the following food types: Grillades, Saucisse grillée, poulet grillé, hot-dog, frite, cevap. The place number of this stall is 387.1 and it's booking weezpay account number is 2059-002
+
+At 'Stand de Tamara' you can have the following drink categories: minérales, bières, liquoreux, and the following food types: nan. The place number of this stall is 537.12 and it's booking weezpay account number is 2413-002
+
+At 'Stand des Jeunes Libéraux-Radicaux Neuchâtelois' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: nan. The place number of this stall is 384.2 and it's booking weezpay account number is 2262-004
+
+At 'La Bonne Binche' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 780.1 and it's booking weezpay account number is 2253-003
+
+At 'Stand de HC UNIVERSITE NEUCHATEL' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Frites. The place number of this stall is 780.07 and it's booking weezpay account number is 2143-002
+
+At 'Gym La Coudre' you can have the following drink categories: minérales, vins, bières, and the following food types: Ramequins & planches-apéro. The place number of this stall is 384.02 and it's booking weezpay account number is 2428-002
+
+At 'Stand de Nesenshon Christian' you can have the following drink categories: nan, and the following food types: Churros, Crêpes. The place number of this stall is 537.02 and it's booking weezpay account number is 2070-002
+
+At 'Stand du Ski Extrême' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 384.28 and it's booking weezpay account number is 2179-002
+
+At 'Stand de Wetzel Frank' you can have the following drink categories: nan, and the following food types: Confiserie, Crêpes, Granita barbapapa popcorn. The place number of this stall is 648.22 and it's booking weezpay account number is 2272-002
+
+At 'Stand de Faivre Pierre' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: Poissons, Tartares. The place number of this stall is 347.01 and it's booking weezpay account number is 2048-002
+
+At 'Maison du Concert' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 387.04 and it's booking weezpay account number is 2058-002
+
+At 'Monsieur Hot-Dog' you can have the following drink categories: minérales, bières, and the following food types: Burgers, hot-dog. The place number of this stall is 198.02 and it's booking weezpay account number is 2156-002
+
+At 'Empanadas' you can have the following drink categories: nan, and the following food types: Spécialités Amérique latine. The place number of this stall is 726.01 and it's booking weezpay account number is 2366-002
+
+At 'Bar de la place Fernando Dos Santos' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 378.05 and it's booking weezpay account number is 2206-002
+
+At 'Stand Association Machu Picchu' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: Spécialités Amérique latine, Tamales, Empanadas, Ceviche. The place number of this stall is 795.03 and it's booking weezpay account number is 2152-002
+
+At 'Pizza au feu de bois' you can have the following drink categories: nan, and the following food types: Pizza. The place number of this stall is 387.12 and it's booking weezpay account number is 2061-002
+
+At 'Stand de Mongelluzzo Giuseppe' you can have the following drink categories: nan, and the following food types: Burgers, Grillades, Poissons, Sandwich, Saucisses, frites, hot dog, nuggets, sandwichs chauds. The place number of this stall is 648.16 and it's booking weezpay account number is 2095-002
+
+At 'La Gaufre Haddock' you can have the following drink categories: nan, and the following food types: Crêpes, gaufres. The place number of this stall is 384.01 and it's booking weezpay account number is 2164-002
+
+At 'Pineapple Oasis' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Croques-Monsieur. The place number of this stall is 780.04 and it's booking weezpay account number is 2140-002
+
+At 'Stand de Tran David' you can have the following drink categories: nan, and the following food types: Spécialités Asiatiques. The place number of this stall is 537.2 and it's booking weezpay account number is 2075-002
+
+At 'Ski Nautique Club de Neuchâtel' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Raclette. The place number of this stall is 351.02 and it's booking weezpay account number is 2180-002
+
+At 'Stand de Zupan Sandi (Seyon)' you can have the following drink categories: minérales, and the following food types: nan. The place number of this stall is 744.16 and it's booking weezpay account number is 2174-003
+
+At 'PAPRIKA' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 201.05 and it's booking weezpay account number is 2159-002
+
+At 'Stand de Zupan Robert' you can have the following drink categories: minérales, bières, and the following food types: Burgers, Confiserie. The place number of this stall is 648.03 and it's booking weezpay account number is 2169-002
+
+At 'Stand du Saloon' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 45.02 and it's booking weezpay account number is 2014-003
+
+At 'PAPRIKA BAR' you can have the following drink categories: minérales, vins, bières, and the following food types: nan. The place number of this stall is 201.06 and it's booking weezpay account number is 2159-004
+
+At 'Stand de Zupan Robert' you can have the following drink categories: minérales, bières, and the following food types: Burgers. The place number of this stall is 648.1 and it's booking weezpay account number is 2169-003
+
+At 'PAPRIKA BAR - Salle à manger' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 201.08 and it's booking weezpay account number is 2159-005
+
+At 'Stand de Zupan Robert' you can have the following drink categories: minérales, bières, and the following food types: Burgers, Grillades. The place number of this stall is 648.14 and it's booking weezpay account number is 2169-004
+
+At 'Stand El Tipico' you can have the following drink categories: minérales, bières, liquoreux, cocktails, and the following food types: Spécialités Amérique latine. The place number of this stall is 744.32 and it's booking weezpay account number is 2356-002
+
+At 'FC Cortaillod' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: Burgers, Pâtes, Sandwich, Steak vigneron, Lasagnes. The place number of this stall is 306.03 and it's booking weezpay account number is 2162-002
+
+At 'Neuchâtel Gym' you can have the following drink categories: minérales, vins, bières, and the following food types: nan. The place number of this stall is 780.11 and it's booking weezpay account number is 2176-002
+
+At 'FC Helvetia' you can have the following drink categories: minérales, vins, bières, and the following food types: Steak vigneron, Saucisse. The place number of this stall is 780.03 and it's booking weezpay account number is 2139-002
+
+At 'Association des anciens élèves de l'ESCN' you can have the following drink categories: minérales, vins, bières, and the following food types: nan. The place number of this stall is 732.02 and it's booking weezpay account number is 2118-002
+
+At 'Stand de RTN' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: Grillades, Raclette, Spécialités Asiatiques, Steak vigneron. The place number of this stall is 387.01 and it's booking weezpay account number is 2475-002
+
+At 'Stand de Gangi Dino Loris' you can have the following drink categories: minérales, bières, liquoreux, cocktails, and the following food types: Frites + sauces. The place number of this stall is 792.07 and it's booking weezpay account number is 2150-002
+
+At 'Choucroute' you can have the following drink categories: minérales, vins, bières, and the following food types: Choucroute. The place number of this stall is 537.03 and it's booking weezpay account number is 2071-002
+
+At 'Au coin de la Poste' you can have the following drink categories: minérales, bières, and the following food types: Burgers, Poissons, Steak vigneron, gaufres et frites. The place number of this stall is 648.02 and it's booking weezpay account number is 2087-002
+
+At 'Stand de Ferreira Antonio' you can have the following drink categories: minérales, liquoreux, and the following food types: Spécialités Portugaises. The place number of this stall is 657.06 and it's booking weezpay account number is 2242-002
+
+At 'Stand de Brasserie du Jura' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 792.09 and it's booking weezpay account number is 2409-002
+
+At 'Stand de Kilian Winz' you can have the following drink categories: minérales, vins, bières, and the following food types: nan. The place number of this stall is 198.06 and it's booking weezpay account number is 2264-003
+
+At 'Stand de Gamboni Aline' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 240.01 and it's booking weezpay account number is 2087-003
+
+At 'Stand de l'association PRISME' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 726.12 and it's booking weezpay account number is 2486-002
+
+At 'Stand de Ayache Bruno' you can have the following drink categories: minérales, and the following food types: Burgers, American hot dog et frites fraîches. The place number of this stall is 648.15 and it's booking weezpay account number is 2252-002
+
+At 'Burgerland 2' you can have the following drink categories: nan, and the following food types: Burgers. The place number of this stall is 726.1 and it's booking weezpay account number is 2252-003
+
+At 'Santos Reyes Jeffry' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: Spécialités Amérique latine. The place number of this stall is 744.05 and it's booking weezpay account number is 2124-002
+
+At 'Stand de l'association PRISME' you can have the following drink categories: minérales, vins, bières, and the following food types: Raclette. The place number of this stall is 726.29 and it's booking weezpay account number is 2486-003
+
+At 'Stand de Jeanne ganaj' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 276.12 and it's booking weezpay account number is 2388-002
+
+At 'Stand du Lions Club NE lac et montagnes' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: Planchettes apéro (Fromages, pain, viande séchée, etc). The place number of this stall is 45.08 and it's booking weezpay account number is 2493-002
+
+At 'Stand de AMFCV' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 276.02 and it's booking weezpay account number is 2447-002
+
+At 'Mentor Kalanderi' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 378.06 and it's booking weezpay account number is 2202-002
+
+At 'Mentor Kalanderi' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 378.04 and it's booking weezpay account number is 2202-003
+
+At 'Mentor Kalanderi' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 201.02 and it's booking weezpay account number is 2202-004
+
+At 'Stand de Joël Schwab' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 648.4 and it's booking weezpay account number is 2225-002
+
+At 'Famiglia Leccese' you can have the following drink categories: minérales, vins, bières, and the following food types: Grillades, Poissons. The place number of this stall is 780.05 and it's booking weezpay account number is 2141-002
+
+At 'Stand de Mahmoud Abu-Shahin' you can have the following drink categories: nan, and the following food types: Crêpes. The place number of this stall is 157.01 and it's booking weezpay account number is 2212-002
+
+At 'Stand Latitude Brésil' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 537.17 and it's booking weezpay account number is 2259-002
+
+At 'Okapi Great Food and Coffee' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 780.19 and it's booking weezpay account number is 2222-002
+
+At 'Judo Club Cortaillod' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 205.03 and it's booking weezpay account number is 2040-002
+
+At 'FSG Corcelles-Cormondrèche' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: Grillades, Steak vigneron. The place number of this stall is 387.14 and it's booking weezpay account number is 2063-002
+
+At 'Stand de Vasquez Richard' you can have the following drink categories: minérales, bières, liquoreux, cocktails, and the following food types: Burgers. The place number of this stall is 648.32 and it's booking weezpay account number is 2104-002
+
+At 'Stand de lourdyhampe' you can have the following drink categories: minérales, and the following food types: Gaufres. The place number of this stall is 387.13 and it's booking weezpay account number is 2455-002
+
+At 'Stand de Tarantino Melissa' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: Grillades, Tortillas. The place number of this stall is 537.3 and it's booking weezpay account number is 2082-002
+
+At 'Stand de Michaël Oberhänsli' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 654.01 and it's booking weezpay account number is 2197-002
+
+At 'Stand de Gary John Pethoud' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 657.21 and it's booking weezpay account number is 2208-002
+
+At 'Stand de Chamorro Luz' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: Sandwich, empanadas pan con chicharones. The place number of this stall is 648.38 and it's booking weezpay account number is 2106-003
+
+At 'Stand de Senol Özkaya' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 537.31 and it's booking weezpay account number is 2235-002
+
+At 'Stand de lequaiduport.ne' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 627.04 and it's booking weezpay account number is 2462-002
+
+At 'ASI AUDAX-FRIUL' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 732.14 and it's booking weezpay account number is 2376-002
+
+At 'Stand de Tupani Besim' you can have the following drink categories: minérales, and the following food types: Burgers. The place number of this stall is 198.07 and it's booking weezpay account number is 2027-002
+
+At 'Sapori Italiani' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Risotto. The place number of this stall is 780.08 and it's booking weezpay account number is 2248-002
+
+At 'Stand Insieme / Perce-Neige' you can have the following drink categories: minérales, vins, bières, and the following food types: Sandwich, Frites, Croque-Monsieur, Gaufres. The place number of this stall is 198.11 and it's booking weezpay account number is 2451-003
+
+At 'Stand ASI Audax Féminines' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 732.12 and it's booking weezpay account number is 2466-002
+
+At 'Stand du FUN' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: Confiserie, Sandwich, tartelette, tartine, patisserie. The place number of this stall is 780.09 and it's booking weezpay account number is 2175-002
+
+At 'Hotel du Marché' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 378.08 and it's booking weezpay account number is 2214-002
+
+At 'Stand de Zymberi' you can have the following drink categories: nan, and the following food types: Churros, Crêpes, Gaufres,  Marrons chauds. The place number of this stall is 198.1 and it's booking weezpay account number is 2274-002
+
+At 'Stand du Brotary Club' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 780.01 and it's booking weezpay account number is 2251-003
+
+At 'Stand des Neuchâtel Knights' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 384.26 and it's booking weezpay account number is 2186-003
+
+At 'Stand de willy bonnaval' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: Churros, Confiserie. The place number of this stall is 45.03 and it's booking weezpay account number is 2303-003
+
+At 'Softice Neuchâtel' you can have the following drink categories: minérales, and the following food types: Burgers, Confiserie, Crêpes, Pizza, Spécialités Orientales, Glaces. The place number of this stall is 45.05 and it's booking weezpay account number is 2359-002
+
+At 'Stand de Khayrallah Nassim' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: nan. The place number of this stall is 537.05 and it's booking weezpay account number is 2167-002
+
+At 'Stand de Catherine Reichl' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 378.1 and it's booking weezpay account number is 2229-002
+
+At 'Stand de Kaya Devrim' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 205.01 and it's booking weezpay account number is 2227-002
+
+At 'TexMexFood' you can have the following drink categories: nan, and the following food types: Burgers, Spécialités Amérique latine, Plats TexMex tels que burritos, fajitas, texas wrap, frites, poulet frit. The place number of this stall is 198.17 and it's booking weezpay account number is 2501-002
+
+At 'Stand de Isa Bal' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 351.01 and it's booking weezpay account number is 2237-002
+
+At 'Stand de willy bonnaval' you can have the following drink categories: minérales, granita sans alcool, and the following food types: Churros, Crêpes. The place number of this stall is 537.21 and it's booking weezpay account number is 2303-004
+
+At 'Stand de Duong Khanh Hiep' you can have the following drink categories: nan, and the following food types: Spécialités Asiatiques. The place number of this stall is 387.11 and it's booking weezpay account number is 2125-005
+
+At 'Bao Boys / Ichi Ramen' you can have the following drink categories: minérales, vins, bières, and the following food types: Spécialités Orientales. The place number of this stall is 45.12 and it's booking weezpay account number is 2525-002
+
+At 'Stand de Khayrallah Nassim' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 537.11 and it's booking weezpay account number is 2167-003
+
+At 'Stand de Khayrallah Nassim' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: nan. The place number of this stall is 537.13 and it's booking weezpay account number is 2167-004
+
+At 'Stand de Khayrallah Nassim - nourriture libanaise' you can have the following drink categories: nan, and the following food types: Spécialités Orientales. The place number of this stall is 732.04 and it's booking weezpay account number is 2167-006
+
+At 'Stand de Khayrallah Nassim' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 732.06 and it's booking weezpay account number is 2167-005
+
+At 'Stand de Bestevents sarl' you can have the following drink categories: minérales, and the following food types: Burgers, kebab, hamburger, balkans. The place number of this stall is 648.04 and it's booking weezpay account number is 2393-002
+
+At 'Stand de Les Verts' you can have the following drink categories: minérales, vins, bières, and the following food types: Soupe à la courge, pain, fromage + autre à voir. The place number of this stall is 198.08 and it's booking weezpay account number is 2318-003
+
+At 'Le Sud Restaurant' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 201.07 and it's booking weezpay account number is 2220-002
+
+At 'Stand A l'Ouest' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 201.01 and it's booking weezpay account number is 2220-003
+
+At 'Bonnaval - churros' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 276.01 and it's booking weezpay account number is 2303-005
+
+At 'MGM Café' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 306.07 and it's booking weezpay account number is 2442-002
+
+At 'Dimitri Engel & La Cantine' you can have the following drink categories: minérales, vins, and the following food types: Burgers. The place number of this stall is 744.78 and it's booking weezpay account number is 2183-002
+
+At 'Escargot Rouge Invité Swiss Wine Vaud' you can have the following drink categories: vins, and the following food types: Pâté Vaudois. The place number of this stall is 744.76 and it's booking weezpay account number is 2183-006
+
+At 'Vins Alain Gerber & Silex' you can have the following drink categories: vins, and the following food types: Planchette du terroir façon poisson. The place number of this stall is 744.74 and it's booking weezpay account number is 2183-003
+
+At 'Les Caves de la Béroche & EpiQure' you can have the following drink categories: vins, bières, and the following food types: nan. The place number of this stall is 744.72 and it's booking weezpay account number is 2183-005
+
+At 'CIANE' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Spécialités Africaines, Grillades, poissons, bananes beignets. The place number of this stall is 792.05 and it's booking weezpay account number is 2149-002
+
+At 'Stand de Velez Gonzalez Yonatan' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Spécialités Amérique latine. The place number of this stall is 744.01 and it's booking weezpay account number is 2131-002
+
+At 'Buffalo Bill' you can have the following drink categories: minérales, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 198.19 and it's booking weezpay account number is 2036-002
+
+At 'Stand de ilir bytyqi' you can have the following drink categories: minérales, vins, and the following food types: Burgers. The place number of this stall is 384.03 and it's booking weezpay account number is 2537-002
+
+At 'Domaine Christalain & GSN' you can have the following drink categories: minérales, vins, and the following food types: Planchette neuchâteloise (tomme, saucisson et pain). The place number of this stall is 744.7 and it's booking weezpay account number is 2183-007
+
+At 'Domaine Saint-Sébaste & FC Saint-Blaise' you can have the following drink categories: vins, and the following food types: nan. The place number of this stall is 744.68 and it's booking weezpay account number is 2183-008
+
+At 'Sionwine.ch invité Swiss Wine Valais' you can have the following drink categories: vins, and the following food types: Sandwich. The place number of this stall is 744.66 and it's booking weezpay account number is 2183-009
+
+At 'Brasserie de la Meute' you can have the following drink categories: minérales, bières, liquoreux, and the following food types: nan. The place number of this stall is 744.64 and it's booking weezpay account number is 2183-010
+
+At 'La Grillette & Domaine Grisoni' you can have the following drink categories: vins, and the following food types: nan. The place number of this stall is 744.62 and it's booking weezpay account number is 2183-011
+
+At 'Cave des Lauriers et Goût et Région' you can have the following drink categories: minérales, vins, liquoreux, and the following food types: Fondue au fromage. The place number of this stall is 744.6 and it's booking weezpay account number is 2183-012
+
+At 'Vins Nicolet & Vouga' you can have the following drink categories: minérales, vins, and the following food types: nan. The place number of this stall is 744.58 and it's booking weezpay account number is 2183-013
+
+At 'Maison de la Tourbière' you can have the following drink categories: nan, and the following food types: Raclette. The place number of this stall is 744.5 and it's booking weezpay account number is 2183-014
+
+At 'Domaine Divernois' you can have the following drink categories: minérales, vins, and the following food types: nan. The place number of this stall is 744.48 and it's booking weezpay account number is 2183-015
+
+At 'Poissonnerie Berger' you can have the following drink categories: nan, and the following food types: Friture de poisson du lac et frite. The place number of this stall is 744.56 and it's booking weezpay account number is 2183-016
+
+At 'Absinthe La Valote Martin' you can have the following drink categories: vins, liquoreux, and the following food types: nan. The place number of this stall is 744.44 and it's booking weezpay account number is 2183-017
+
+At 'Boucherie du Palais Invité Regio Garantie Genève' you can have the following drink categories: minérales, and the following food types: Délice Genevois Pistaché, Petit Pâté Genevois, Croissant au Jambon Traditionnel, Croissant Genevois , saucisson secs au Gamaret, Saucisson sec de Porc de Jussy, Filet de Porc sec de Jussy, Coppa de Porc de Jussy, Saucisse à l'Ail de Jussy, Planchette Genevoise. The place number of this stall is 744.42 and it's booking weezpay account number is 2183-018
+
+At 'Swiss Wine Genève' you can have the following drink categories: vins, and the following food types: nan. The place number of this stall is 744.4 and it's booking weezpay account number is 2183-019
+
+At 'Caves de la Ville' you can have the following drink categories: vins, and the following food types: nan. The place number of this stall is 744.38 and it's booking weezpay account number is 2183-020
+
+At 'Brasserie B'art' you can have the following drink categories: minérales, bières, and the following food types: Burgers. The place number of this stall is 744.36 and it's booking weezpay account number is 2183-021
+
+At 'Stand de Kheiri' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: Burgers, Grillades, Kebab, Sandwich, Spécialités Africaines, Spécialités Orientales. The place number of this stall is 537.1 and it's booking weezpay account number is 2405-002
+
+At 'Stand de FC DM Surfaces' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Steak vigneron. The place number of this stall is 537.25 and it's booking weezpay account number is 2076-002
+
+At 'Stand de willy bonnaval' you can have the following drink categories: cocktails, and the following food types: Churros. The place number of this stall is 537.19 and it's booking weezpay account number is 2303-006
+
+At 'Stand de k hamma' you can have the following drink categories: nan, and the following food types: Sandwich, Spécialité Grec. The place number of this stall is 384.14 and it's booking weezpay account number is 2543-002
+
+At 'Stand de ncswiss' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Churros, nougat. The place number of this stall is 387.05 and it's booking weezpay account number is 2545-003
+
+At 'Stand de Franck Pellet' you can have the following drink categories: nan, and the following food types: Churros, Crêpes. The place number of this stall is 648.34 and it's booking weezpay account number is 2171-002
+
+At 'Stand de willy bonnaval' you can have the following drink categories: nan, and the following food types: Sucrerie. The place number of this stall is 657.02 and it's booking weezpay account number is 2303-007
+
+At 'Chick n chips' you can have the following drink categories: nan, and the following food types: Nuggets poulet. The place number of this stall is 537.04 and it's booking weezpay account number is 2252-004
+
+At 'Stand de Hoppy Truck Company' you can have the following drink categories: minérales, bières, liquoreux, and the following food types: nan. The place number of this stall is 744.18 and it's booking weezpay account number is 2304-002
+
+At 'LABELFRITES' you can have the following drink categories: minérales, and the following food types: Steak vigneron, Hot-dog , Merguez, Frites. The place number of this stall is 45.24 and it's booking weezpay account number is 2023-002
+
+At 'Stand de Festi'neuch' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 198.03 and it's booking weezpay account number is 2054-002
+
+At 'Le valais chez vous' you can have the following drink categories: bières, cocktails, and the following food types: Raclette. The place number of this stall is 726.07 and it's booking weezpay account number is 2539-002
+
+At 'Mariana Crêpes et Titi Raclette' you can have the following drink categories: minérales, vins, bières, and the following food types: Churros, Crêpes, Raclette. The place number of this stall is 45.06 and it's booking weezpay account number is 2547-002
+
+At 'poulet secret' you can have the following drink categories: nan, and the following food types: Burgers, Spécialités Amérique latine, poulet frite. The place number of this stall is 45.14 and it's booking weezpay account number is 2275-002
+
+At 'Stand Bifadoro' you can have the following drink categories: nan, and the following food types: Spécialités Portugaises. The place number of this stall is 744.28 and it's booking weezpay account number is 2468-002
+
+At 'Stand de Lopes Carlos' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Churros, Spécialités Portugaises. The place number of this stall is 657.26 and it's booking weezpay account number is 2158-002
+
+At 'BELLA PALOMO - Chilean Food & Point 0' you can have the following drink categories: minérales,  toutes les boissons sans alcools (mocktails, bières, vins, mousseux..),  bar à jus de fruits, and the following food types: Sandwich, Spécialités Amérique latine, Hot-dog et frites. The place number of this stall is 732.16 and it's booking weezpay account number is 2540-002
+
+At 'HC Neuchâtel Young Sprinters' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Raclette, Sandwich. The place number of this stall is 537.29 and it's booking weezpay account number is 2461-002
+
+At 'Stand de Tamara' you can have the following drink categories: minérales, liquoreux, and the following food types: Churros, Crêpes. The place number of this stall is 648.06 and it's booking weezpay account number is 2413-003
+
+At 'Stand de Tamara' you can have the following drink categories: minérales, liquoreux, and the following food types: nan. The place number of this stall is 744.2 and it's booking weezpay account number is 2413-004
+
+At 'Stand de regaltandoori' you can have the following drink categories: minérales, vins, bières, and the following food types: Cuisine Indien. The place number of this stall is 537.08 and it's booking weezpay account number is 2517-002
+
+At 'Stand de Jonathan Perret' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: nan. The place number of this stall is 627.06 and it's booking weezpay account number is 2217-002
+
+At 'Stand Vekteur' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 537.26 and it's booking weezpay account number is 2076-003
+
+At 'Stand Partenaires FDV' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Buffet froid composé de diverses pâtisseries italiennes. The place number of this stall is 537.27 and it's booking weezpay account number is 2541-002
+
+At 'Stand de eric beguelin' you can have the following drink categories: vins, bières, and the following food types: Hot fondue. The place number of this stall is 198.13 and it's booking weezpay account number is 2322-002
+
+At 'YAKIMI' you can have the following drink categories: nan, and the following food types: Spécialités Asiatiques. The place number of this stall is 198.15 and it's booking weezpay account number is 2531-002
+
+At 'La Terra del Sud di Salento' you can have the following drink categories: minérales, vins, bières, and the following food types: nan. The place number of this stall is 384.12 and it's booking weezpay account number is 2551-002
+
+At 'Cow on the Road' you can have the following drink categories: nan, and the following food types: Burgers, Sandwich, Tartares. The place number of this stall is 384.15 and it's booking weezpay account number is 2528-002
+
+At 'Hans Grüezi' you can have the following drink categories: nan, and the following food types: Raclette, Sandwich, Rösti frite sauce gruyère, steack raclette sandwich. The place number of this stall is 726.02 and it's booking weezpay account number is 2524-002
+
+At 'L'Oeuforie' you can have the following drink categories: nan, and the following food types: Burgoeufs TM. The place number of this stall is 744.26 and it's booking weezpay account number is 2542-002
+
+At 'BELGA' you can have the following drink categories: minérales, bières, and the following food types: Spécialités belges (frites, snacks, mitraillettes). The place number of this stall is 45.16 and it's booking weezpay account number is 2474-002
+
+At 'Stand de Asia-Food' you can have the following drink categories: nan, and the following food types: Spécialités Asiatiques. The place number of this stall is 744.03 and it's booking weezpay account number is 2285-002
+
+At 'Stand de boucherie artisanal de L’Etivaz' you can have the following drink categories: nan, and the following food types: Grillades, mac raclette. The place number of this stall is 384.08 and it's booking weezpay account number is 2398-002
+
+At 'Stand de fati yoann' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 648.21 and it's booking weezpay account number is 2361-002
+
+At 'Stand de fati yoann' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 45.28 and it's booking weezpay account number is 2361-002
+
+At 'Stand de Wenger Tupan Anita' you can have the following drink categories: minérales, and the following food types: Burgers. The place number of this stall is 648.05 and it's booking weezpay account number is 2170-003
+
+At 'Stand de Geissel Pascal' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 744.54 and it's booking weezpay account number is 2200-002
+
+At 'La Patanne' you can have the following drink categories: nan, and the following food types: Patates en spirales. The place number of this stall is 657.16 and it's booking weezpay account number is 2496-002
+
+At 'Stand de Duong Khanh Hiep' you can have the following drink categories: nan, and the following food types: Spécialités Asiatiques. The place number of this stall is 648.26 and it's booking weezpay account number is 2125-007
+
+At 'Stand de Coco Thaï Cuisine' you can have the following drink categories: minérales, bières, and the following food types: Spécialités Asiatiques. The place number of this stall is 537.06 and it's booking weezpay account number is 2559-002
+
+At 'Nach-Bar' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: nan. The place number of this stall is 744.3 and it's booking weezpay account number is 2561-002
+
+At 'Stand de Bonnaval' you can have the following drink categories: nan, and the following food types: Churros. The place number of this stall is 744.24 and it's booking weezpay account number is 2171-004
+
+At 'L'Auberge d'Hauterive & Domaine Brunner' you can have the following drink categories: vins, and the following food types: Risotto, pâté de chasse, dessert. The place number of this stall is 744.46 and it's booking weezpay account number is 2183-022
+
+At 'Zia Kurtos' you can have the following drink categories: nan, and the following food types: Confiserie, Kurtoskalacs spécialité hongroise. The place number of this stall is 615.25 and it's booking weezpay account number is 2560-002
+
+At 'Paradis Kebab' you can have the following drink categories: minérales, bières, and the following food types: Burgers, Kebab, Sandwich, Tacos. The place number of this stall is 657.2 and it's booking weezpay account number is 2246-002
+
+At 'Stand de aboulhassanesamia' you can have the following drink categories: minérales, and the following food types: Spécialité marocaine. The place number of this stall is 726.27 and it's booking weezpay account number is 2569-002
+
+At 'Stand Mendes' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: Raclette. The place number of this stall is 615.06 and it's booking weezpay account number is 2571-002
+
+At 'Stand Québécois' you can have the following drink categories: minérales, bières, liquoreux, cocktails, and the following food types: Spécialités québécoises. The place number of this stall is 615.04 and it's booking weezpay account number is 2520-002
+
+At 'Saveurs Du Tibet' you can have the following drink categories: minérales, and the following food types: Brioche Tibétaine. The place number of this stall is 726.15 and it's booking weezpay account number is 2550-002
+
+At 'Stand de chezmendes' you can have the following drink categories: minérales, bières, liquoreux, and the following food types: Poissons, Frites. The place number of this stall is 615.08 and it's booking weezpay account number is 2571-002
+
+At 'Stand de lescrepesgourmandes' you can have the following drink categories: nan, and the following food types: Crêpes, Sandwich, gaufres. The place number of this stall is 648.09 and it's booking weezpay account number is 2570-002
+
+At 'Stand de marketing' you can have the following drink categories: minérales, vins, bières, liquoreux, and the following food types: Spécialités antillaises petits encas et desserts. The place number of this stall is 744.1 and it's booking weezpay account number is 2573-002
+
+At 'Stand de paul richeux' you can have the following drink categories: vins, and the following food types: Huitres/Vin Blanc, Fritures a base de Fromage. The place number of this stall is 276.06 and it's booking weezpay account number is 2575-002
+
+At 'Portes de Novembre by Maison Gilliard' you can have the following drink categories: minérales, vins, and the following food types: nan. The place number of this stall is 615.29 and it's booking weezpay account number is 2568-002
+
+At 'Stand de hectorfmr' you can have the following drink categories: minérales, bières, liquoreux, cocktails, and the following food types: Spécialités Amérique latine. The place number of this stall is 744.14 and it's booking weezpay account number is 2580-002
+
+At 'Panares Gourmet' you can have the following drink categories: nan, and the following food types: Sandwich, Spécialités Amérique latine, Burritos. The place number of this stall is 657.1 and it's booking weezpay account number is 2581-002
+
+At 'Stand de Cabanons' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 627.17 and it's booking weezpay account number is 2410-002
+
+At 'La cabane à cocktails' you can have the following drink categories: minérales, vins, bières, cocktails, and the following food types: nan. The place number of this stall is 537.18 and it's booking weezpay account number is 2588-002
+
+At 'Tropical Pirate' you can have the following drink categories: minérales, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 726.05 and it's booking weezpay account number is 2589-002
+
+At 'Stand de yumbab europe' you can have the following drink categories: minérales, bières, liquoreux, cocktails, and the following food types: nan. The place number of this stall is 726.21 and it's booking weezpay account number is 2591-002
+
+At 'Stand de Tamara' you can have the following drink categories: nan, and the following food types: Crêpes. The place number of this stall is 792.04 and it's booking weezpay account number is 2413-005
+
+At 'Pastef Neuchâtel' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Spécialités Africaines. The place number of this stall is 726.04 and it's booking weezpay account number is 2593-002
+
+At 'Krishna Take-Away Indien Sàrl' you can have the following drink categories: minérales, vins, bières, liquoreux, cocktails, and the following food types: Spécialités Asiatiques, Specialités sri-lankaise. The place number of this stall is 276.1 and it's booking weezpay account number is 2587-002
+
+At 'Stand de Cabanons' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 627.21 and it's booking weezpay account number is 2410-003
+
+At 'Stand de Yonten Tratsang' you can have the following drink categories: nan, and the following food types: Tibétains. The place number of this stall is 657.04 and it's booking weezpay account number is 2250-003
+
+At 'EFFEMME DISTRIBUTION SÀRL (o-caffe.ch)' you can have the following drink categories: minérales, liquoreux, and the following food types: nan. The place number of this stall is 615.19 and it's booking weezpay account number is 2595-002
+
+At 'CASHLESS VOIRIE' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 0.01 and it's booking weezpay account number is 2077-002
+
+At 'CASHLESS LOUNGE TERROIR' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 0.02 and it's booking weezpay account number is 2077-003
+
+At 'Stand de tapis marbre' you can have the following drink categories: nan, and the following food types: Churros, Crêpes. The place number of this stall is 537.24 and it's booking weezpay account number is 2599-003
+
+At 'Stand de naveen begni' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 0.03 and it's booking weezpay account number is 2601-002
+
+At 'CHRISTIAN JEAN' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 0.04 and it's booking weezpay account number is 2077-004
+
+At 'Stand de contact' you can have the following drink categories: nan, and the following food types: nan. The place number of this stall is 219.01 and it's booking weezpay account number is 2495-002
+
+At 'Stand de gulselgormez' you can have the following drink categories: minérales, bières, and the following food types: Kebab, hot dog frites. The place number of this stall is 648.3 and it's booking weezpay account number is 2554-002
+
+At 'Stand de Le Petit Train Rouge' you can have the following drink categories: nan, and the following food types: Burgers, Pizza. The place number of this stall is 615.1 and it's booking weezpay account number is 2603-002
+

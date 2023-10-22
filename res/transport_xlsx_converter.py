@@ -1,8 +1,8 @@
 import pdfplumber
 import pandas as pd
 
-pdf_file = "transport.pdf"
-output_excel = "transport.xlsx"
+pdf_file = "res/transport.pdf"
+output_excel = "res/transport.xlsx"
 
 with pdfplumber.open(pdf_file) as pdf:
     page = pdf.pages[0]

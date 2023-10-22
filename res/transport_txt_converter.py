@@ -1,6 +1,6 @@
 import pandas as pd
 
-excel_file = "transport.xlsx"
+excel_file = "res/transport.xlsx"
 
 df = pd.read_excel(excel_file)
 
@@ -9,7 +9,7 @@ def format_data_to_sentence(row):
 
     return sentence
 
-output_file = "transport.txt"
+output_file = "res/transport.txt"
 with open(output_file, "w", encoding="utf-8") as file:
     for index, row in df.iterrows():
         sentence = format_data_to_sentence(row)

@@ -8,10 +8,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-'''enter your openai api key'''
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
-'''Add the path to your pdf file'''
 reader = PdfReader('res/data.pdf')
 
 raw_text = ''
@@ -20,9 +18,6 @@ for i, page in enumerate(reader.pages):
     if text:
         raw_text += text
 
-'''Divide the input data into chunks
-    This will help in reducing the embedding size as we will se in the code
-    as well as reduce the token size for the query,'''
 text_splitter = CharacterTextSplitter(        
     separator = "\n",
     chunk_size = 500,
