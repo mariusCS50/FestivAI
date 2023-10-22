@@ -10,7 +10,7 @@ load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 chat = ChatOpenAI(temperature=0.6)
 
-with open("res/data.pkl", 'rb') as f: 
+with open("res/files/data.pkl", 'rb') as f: 
     faiss_index = pickle.load(f)
 
 message_history = []
@@ -44,7 +44,7 @@ with gr.Blocks() as demo:
         )
     ]
 
-    chatbot = gr.Chatbot(height=580, show_copy_button=True, avatar_images=(None, "res/AI.jpg"))
+    chatbot = gr.Chatbot(height=580, show_copy_button=True, avatar_images=(None, "res/files/AI.jpg"))
 
     with gr.Row(): 
         
