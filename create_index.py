@@ -12,7 +12,7 @@ load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 '''Add the path to your pdf file'''
-reader = PdfReader('FAQ2.pdf')
+reader = PdfReader('res/data.pdf')
 
 raw_text = ''
 for i, page in enumerate(reader.pages):
@@ -36,5 +36,5 @@ embeddings = OpenAIEmbeddings(disallowed_special=())
 docsearch = FAISS.from_texts(texts, embeddings)
 
 
-with open("FAQ.pkl", 'wb') as f:
+with open("res/data.pkl", 'wb') as f:
     pickle.dump(docsearch, f)

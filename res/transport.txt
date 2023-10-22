@@ -1,0 +1,101 @@
+Bus number 101 goes on the line Neuchâtel - Marin. The departure locations for this bus are Université on Friday, Université on Saturday, and Jusqu'à 18h : Hôpital Pourtalès
+Dès 18h: Université on Sunday. The schedules for some days in the week are: Jeudi : Ne circule plus dans la rue du Seyon dès 17h50
+Vendredi : Toutes les 10 min. de la 1ère course à minuit puis toutes les 20 min. jusqu’à 4h
+Samedi : Toutes les 10 min. de 7h à minuit puis toutes les 20 min. jusqu’à 4h
+Dimanche : De 11h à 13h29 toutes les 10 min. De13h30 à 19h20 toutes les 5 min. De 19h21 à 21h toutes les 10 min. Dès 21h01 toutes les 20 minutes. Dernier départ selon l’horaire habituel.
+
+Bus number 101 goes on the line Neuchâtel - Cormondrèche. The departure locations for this bus are Ecluse on Friday, Ecluse on Saturday, and Ecluse on Sunday. The schedules for some days in the week are: Jeudi : Ne circule plus dans la rue du Seyon dès 17h50
+Vendredi : Toutes les 10 min. de la 1ère course à minuit puis toutes les 20 min. jusqu’à 4h
+Samedi : Toutes les 10 min. de 7h à minuit puis toutes les 20 min. jusqu’à 4h
+Dimanche : De 11h à 13h29 toutes les 10 min. De13h30 à 19h20 toutes les 5 min. De 19h21 à 21h toutes les 10 min. Dès 21h01 toutes les 20 minutes. Dernier départ selon l’horaire habituel.
+
+Bus number 102 goes on the line Neuchâtel, Oriette - Serrières. The departure locations for this bus are Oriette, quai A on Friday, Jusqu’à 18h40 : Oriette, quai A
+De 18h50 à 22h30 : Régional
+Dès 22h40 : Oriette, quai A on Saturday, and Oriette, quai A on Sunday. The schedules for some days in the week are: Vendredi et Samedi : Toutes les 10 min de 7h à minuit puis toutes les 20 min. jusqu’à 4h
+Dimanche : Toutes les 10 min de 12h à 21h puis toutes les 20 min. Dernier départ selon l’horaire habituel.
+
+Bus number 102 goes on the line Neuchâtel, Terreaux Muséum - Temple des
+Valangines. The departure locations for this bus are Terreaux Muséum on Friday, Terreaux Muséum on Saturday, and Terreaux Muséum on Sunday. The schedules for some days in the week are: Vendredi et Samedi : Toutes les 10 min de 7h à minuit puis toutes les 20 min. jusqu’à 4h
+Dimanche : Toutes les 10 min de 12h à 21h puis toutes les 20 min. Dernier départ selon l’horaire habituel.
+
+Bus number 106 goes on the line Neuchâtel, Oriette - Gare (Nord) - Vallon de l’Ermitage. The departure locations for this bus are Oriette, quai B on Friday, Oriette, quai B on Saturday, and - on Sunday. The schedules for some days in the week are: Horaire habituel.
+
+Bus number 106 goes on the line Neuchâtel, Oriette - Gare (Nord) - Rocher. The departure locations for this bus are Oriette, quai B on Friday, Oriette, quai B on Saturday, and Oriette, quai B on Sunday. The schedules for some days in the week are: Vendredi : Toutes les 20 min. de 19h à minuit
+Samedi : Toutes les 15 min. de 5h16 à 8h et de 22h30 à minuit. Interrompue de 18h30 à 22h30
+Dimanche : Toutes les 20 min. de 6h30 à 20h.
+
+Bus number 107 goes on the line Neuchâtel - Hauterive / Marin. The departure locations for this bus are Terreaux Muséum on Friday, Terreaux Muséum on Saturday, and Terreaux Muséum on Sunday. The schedules for some days in the week are: Vendredi : Toutes les 10 min. de la 1ère course à minuit puis toutes les 20 min. jusqu’à 4h. Dernier départ pour Marin de
+Terreaux Muséum 19h13, ensuite jusqu’à Hauterive uniquement.
+Samedi : Toutes les 10 min. de 7h à minuit puis toutes les 20 min. jusqu’à 4h. Dernier départ pour Marin de Terreaux
+Muséum à 17h59, ensuite jusqu’à Hauterive uniquement.
+Dimanche : Toutes les 5 min. dès 13h10 jusqu’à 21h puis toutes les 20 min. Dernier départ selon l’horaire
+habituel (→ Hauterive).
+
+Bus number 109 goes on the line Neuchâtel, Terreaux Muséum - Trois-Chênes. The departure locations for this bus are Terreaux Muséum on Friday, Terreaux Muséum on Saturday, and Terreaux Muséum on Sunday. The schedules for some days in the week are: Vendredi : Toutes les 10 min de la 1ère course à minuit puis toutes les 20 min. jusqu’à 4h
+Samedi : Toutes les 10 min de 7h à minuit puis toutes les 20 min. jusqu’à 4h
+Dimanche : Toutes les 20 min. de 9h03 à 12h puis toutes les 10 min de12h à 21h puis toutes les 20 min. Dernier
+départ selon l’horaire habituel.
+
+Bus number 110 goes on the line Neuchâte-Université - Gare (Fun’ambule). The departure locations for this bus are Université (FUNI) on Friday, Université (FUNI) on Saturday, and Université (FUNI) on Sunday. The schedules for some days in the week are: Vendredi et Samedi : A la demande jusqu’à 1h
+Dimanche : Horaire habituel.
+
+Bus number 111 goes on the line Neuchâtel, La Coudre - Chaumont. The departure locations for this bus are La Coudre (FUNI) on Friday, La Coudre (FUNI) on Saturday, and La Coudre (FUNI) on Sunday. The schedules for some days in the week are: Les courses habituellement sur réservation se font d’office.
+
+Bus number 112 goes on the line Neuchâtel, Ecluse - Plan. The departure locations for this bus are Ecluse (FUNI) on Friday, Ecluse (FUNI) on Saturday, and Ecluse (FUNI) on Sunday. The schedules for some days in the week are: Vendredi : A la demande de 16h à 4h
+Samedi : A la demande jusqu’à 4h
+Dimanche : Horaire habituel.
+
+Bus number 120 goes on the line Neuchâtel - Chambrelien / Les Gratte de bise. The departure locations for this bus are Gare (Nord) on Friday, Gare (Nord) on Saturday, and Gare (Nord) on Sunday. The schedules for some days in the week are: Horaire habituel.
+
+Bus number 120 goes on the line Colombier - Les Grattes de bise - Montmollin - Corcelles. The departure locations for this bus are Colombier, Bas-des-Allées on Friday, Colombier, Bas-des-Allées on Saturday, and - on Sunday. The schedules for some days in the week are: Vendredi : 20h13 / 20h43 / 21h13 / 21h43 / 22h13 / 22h33 / 22h56 / 23h31 / 00h31 / 01h31 / 02h31 / 03h31 / 04h23
+Samedi : 20h13 / 20h43 / 21h13 / 21h43 / 22h13 / 22h43 / 23h13 / 23h43 / 00h13 / 00h43 / 01h13 / 01h43 / 02h13 / 02h33 / 03h33 / 04h23
+Attention : Le bus circule uniquement dans le sens Colombier, Bôle, Chambrelien, Rochefort, Les Grattes de bise, Montmollin, Corcelles Pharmacie..
+
+Bus number 121 goes on the line Neuchâtel, Université - Piscines. The departure locations for this bus are Université on Friday, Université on Saturday, and - on Sunday. The schedules for some days in the week are: Vendredi : Horaire habituel. Départs supplémentaires à 20h38 et 20h42 de Université
+Samedi : Horaire habituel jusqu’à 18h50 puis interrompue.
+
+Bus number 122 goes on the line Neuchâtel, Gare (Nord) - Vauseyon. The departure locations for this bus are Gare (Nord) on Friday, Gare (Nord) on Saturday, and - on Sunday. The schedules for some days in the week are: Horaire habituel.
+
+Bus number 131 goes on the line St-Blaise - Enges - Lignières*. The departure locations for this bus are St-Blaise, centre on Friday, St-Blaise, centre on Saturday, and - on Sunday. The schedules for some days in the week are: Toutes les heures de 1h30 à 4h30.
+
+Bus number 150 goes on the line Neuchâtel - Thielle - Cornaux - Cressier - Le Landeron*. The departure locations for this bus are Université on Friday, Université on Saturday, and - on Sunday. The schedules for some days in the week are: Toutes les heures de 1h à 4h.
+
+Bus number 215 goes on the line Neuchâtel - Boudry (Littorail). The departure locations for this bus are Place Pury Littorail on Friday, Jusqu’à 19h26 : Place Pury Littorail
+De 19h40 à 22h30 : Evole
+Dès 22h40 : Place Pury Littorail on Saturday, and Place Pury Littorail on Sunday. The schedules for some days in the week are: Vendredi : Toutes les 10 min. de 16h à 2h20 puis toutes les 20 min. jusqu’à 4h
+Samedi : Toutes les 10 min. de 13h à 2h puis toutes les 20 min. jusqu’à 4h
+Dimanche : Toutes les 10 min. de 12h à 20h20 puis toutes les 20 min. jusqu’à 0h20
+Aux heures de plus forte affluence, des bus supplémentaires circulent en renfort sans horaires. Départs Oriette, quai C..
+
+Bus number 221 goes on the line Neuchâtel - Fleurier. The departure locations for this bus are Neuchâtel on Friday, Neuchâtel on Saturday, and - on Sunday. The schedules for some days in the week are: Vendredi et Samedi : départs à 2h59.
+
+Bus number 223 goes on the line Neuchâtel - La Chaux-de-Fonds - Le Locle *. The departure locations for this bus are Neuchâtel on Friday, Neuchâtel on Saturday, and - on Sunday. The schedules for some days in the week are: Vendredi et Samedi : départs à 3h11.
+
+Bus number 421 goes on the line Neuchâtel - Savagnier - Cernier. The departure locations for this bus are Oriette, quai A on Friday, Jusqu’à 19h02 : Oriette, quai A
+De 19h30 à 22h45 : Prébarreau
+Dès 00h10 : Oriette, quai A on Saturday, and Oriette, quai A on Sunday. The schedules for some days in the week are: Vendredi : Cernier : 19h22 / 19h52 / 20h22 / 23h31 Oriette : 20h00 / 22h30 / 01h10 / 02h10 / 03h10 / 04h00 /
+04h10
+Samedi : Cernier : 17h21 / 17h51 / 18h21 / 18h51 / 19h21 / 19h51 / 20h21 / 21h51 Oriette : 17h02 / 18h02 /
+19h02 / 01h10 / 02h10 /03h10 / 04h00 / 04h10 Prébarreau : 20h00 / 20h30 / 21h00 / 22h30
+Dimanche : Cernier : 12h21 / 15h21 / 16h35 / 19h51 Oriette : 11h32 / 13h02 / 14h32 / 16h02 / 17h32 / 18h02
+(jusqu’à Savagnier) / 19h02 / 20h32 / 22h02 / 23h02 / 00h10.
+
+Bus number 422 goes on the line Neuchâtel - Cernier - Villiers. The departure locations for this bus are Oriette, quai A on Friday, Jusqu’à 19h10 : Oriette, quai A
+De 19h30 à 22h10 : Prébarreau
+Dès 22h28 : Oriette, quai A on Saturday, and Oriette, quai A on Sunday. The schedules for some days in the week are: Vendredi : Toutes les heures de minuit à 4h
+Samedi : 19h à minuit toutes les 20min. Toutes les heures de minuit à 4h
+Dimanche : 19h à minuit toutes les 20 min. Dernier départ selon horaire habituel.
+
+Bus number 424 goes on the line Neuchâtel - Boudevilliers - Coffrane
+- Les Geneveys-sur-Coffrane
+- Les Hauts-Geneveys - Cernier*. The departure locations for this bus are Oriette, quai B on Friday, Oriette, quai B on Saturday, and Oriette, quai B on Sunday. The schedules for some days in the week are: Vendredi et Samedi : Toutes les heures de minuit à 4h
+Dimanche : Départ à 00h06.
+
+Bus number 612 goes on the line Neuchâtel - Bevaix - St-Aubin - Vaumarcus. The departure locations for this bus are Oriette, quai C on Friday, Oriette, quai C on Saturday, and - on Sunday. The schedules for some days in the week are: Toutes les heures de minuit à 4h, sans arrêt entre Oriette et Giratoire 3 Communes.
+
+Bus number 612 goes on the line Boudry Littorail, gare - Boudry, gare*. The departure locations for this bus are Boudry Littorail, gare on Friday, Boudry Littorail, gare on Saturday, and - on Sunday. The schedules for some days in the week are: Départ à : 01h38 / 02h18 / 02h58 / 03h38 / 04h18 / 04h38.
+
+Bus number 613 goes on the line Areuse - Cortaillod*. The departure locations for this bus are Areuse Littorail, gare on Friday, Areuse Littorail, gare on Saturday, and - on Sunday. The schedules for some days in the week are: Toutes les 20 min. de 00h37 à 03h57 puis 04h14 et 04h25.
+
+Bus number 613 goes on the line Boudry - Perreux*. The departure locations for this bus are Boudry Littorail, gare on Friday, Boudry Littorail, gare on Saturday, and - on Sunday. The schedules for some days in the week are: Départs à : 01h18 / 01h58 / 02h38 / 03h18 / 03h58 / 04h38.
+
